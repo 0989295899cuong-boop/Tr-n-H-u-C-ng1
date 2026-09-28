@@ -1,0 +1,6 @@
+{
+  "name": "Vinamilk NUTRI BAR - BẬN VẪN ĐỦ CHẤT",
+  "description": "Vinamilk NUTRI BAR – Thanh dinh dưỡng ăn liền kết hợp protein từ sữa, yến mạch nguyên cám và các loại hạt tuyển chọn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
